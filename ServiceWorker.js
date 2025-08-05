@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-MKSN v1-1.01";
+const cacheName = "DefaultCompany-MKSN v1-1.0";
 const contentToCache = [
     "Build/MKSN.loader.js",
     "Build/MKSN.framework.js",
